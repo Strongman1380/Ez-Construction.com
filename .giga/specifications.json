@@ -1,0 +1,22 @@
+[
+  {
+    "fileName": "main-overview.mdc",
+    "description": "Complete system overview detailing the construction company's core operational components, architecture, and key business logic components"
+  },
+  {
+    "fileName": "estimate-system-flow.mdc",
+    "description": "Detailed documentation of the estimate request system's dual-channel notification flow, timezone handling, and email template management"
+  },
+  {
+    "fileName": "data-models.mdc",
+    "description": "Comprehensive documentation of data structures for projects, services, and estimates including relationships and category hierarchies"
+  },
+  {
+    "fileName": "project-portfolio-architecture.mdc",
+    "description": "Documentation of the project portfolio system including image sequence management, location tracking, and project classification structure"
+  },
+  {
+    "fileName": "service-categorization.mdc",
+    "description": "Detailed documentation of the construction service hierarchy, category relationships, and domain-specific service descriptions"
+  }
+]
